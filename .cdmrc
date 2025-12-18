@@ -1,0 +1,16 @@
+tabs:
+  - P4_Customer/src/main/java/com/controller/CustomerController.java
+  - P4_Customer/src/main/java/com/service/CustomerService.java
+  - P4_Customer/src/main/java/com/repo/CustomerRepositoryImpl.java
+  - P4_Customer/src/main/java/com/model/Customer.java
+
+run-button: >
+  cd P4_Customer && mvn spring-boot:run
+
+terminals:
+  - cd P4_Customer && mvn spring-boot:run
+
+browser-link: /
+browser-link: /swagger-ui/index.html
+playground-view: browser
+project-name: P4_Customer
