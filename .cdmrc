@@ -1,5 +1,6 @@
 tabs:
   - P4_Customer/src/main/java/com/controller/CustomerController.java
+  - P4_Customer/src/main/java/com/controller/SwaggerConfig.java
   - P4_Customer/src/main/java/com/service/CustomerService.java
   - P4_Customer/src/main/java/com/repo/CustomerRepositoryImpl.java
   - P4_Customer/src/main/java/com/model/Customer.java
